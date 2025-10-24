@@ -4,7 +4,7 @@
 [ссылка]()
 
 ## Лист задания
-[ссылка]()
+[ссылка](https://github.com/irina-skiba/course_project/blob/main/files/%D0%9B%D0%B8%D1%81%D1%82%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20%D0%9A%D0%9F%20%D0%9F%D0%BD%D0%B0%D0%AF%D0%92%D0%A3%202025.docx)
 
 ## Содержание
 
