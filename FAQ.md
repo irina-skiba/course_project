@@ -17,10 +17,12 @@
 
 ### Вариант 1
 Все вложенности после 1 уровня выравняются по 1 строке.
+
 <img width="577" height="165" alt="image" src="https://github.com/user-attachments/assets/f9fe3f50-2212-4c8f-956b-b822e3b4c647" />
 
 ### Вариант 2
 Каждый уровень вложенности смещается на 1,25.
+
 <img width="576" height="282" alt="image" src="https://github.com/user-attachments/assets/f901838c-27fc-44a0-9f12-3c4d1b4f427c" />
 
 ## 3. Приложения
