@@ -27,6 +27,7 @@
 
 ## 3. Приложения
 Оформляется как в СТП.
+
 <img width="750" height="134" alt="image" src="https://github.com/user-attachments/assets/b342543e-5a88-465e-8fc5-730da89ab280" />
 
 ## 4. Диаграмма классов
